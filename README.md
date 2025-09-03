@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agents Examples
 
 Este proyecto contiene diferentes implementaciones de agentes AI con distintos patrones de ejecución.
@@ -14,8 +15,8 @@ Este proyecto contiene diferentes implementaciones de agentes AI con distintos p
 
 1. Clona el repositorio:
 ```bash
-git clone <url-del-repositorio>
-cd AGENTS_examples
+git clone https://github.com/Diego-galsan/example_of_agents.git
+cd example_of_agents
 ```
 
 2. Crea un entorno virtual:
@@ -45,3 +46,7 @@ Cada directorio de agente contiene:
 3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
+=======
+# example_of_agents
+List of several agents
+>>>>>>> e2e8f20a47bb7674d3f46fd1d818ec4012a9cde5
